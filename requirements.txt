@@ -12,4 +12,5 @@ google-cloud-aiplatform>=1.38
 pymupdf
 unstructured
 aisuite
+sentence-transformers
 
